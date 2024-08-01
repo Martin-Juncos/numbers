@@ -41,3 +41,17 @@ const updateCount = (el) => {
   }, 1);
 };
 ```
+
+## Contribuciones
+
+Si deseas contribuir al proyecto, por favor envía un pull request o abre un issue para discutir los cambios que te gustaría implementar.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
+
+## Contacto
+
+Si tienes alguna consulta, puedes contactar a [Martin Juncos](mailto:prof.mcjuncos@gmail.com).
+
+                    ©Prof Martin Juncos
